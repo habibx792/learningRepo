@@ -1,0 +1,6 @@
+cpp=open("calculator.cpp",'r')
+asm=open("hell.asm",'w')
+content=cpp.read()
+asm.write(content)
+asm.close()
+cpp.close()
