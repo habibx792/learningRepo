@@ -1,7 +1,7 @@
 from person import Person
 class Employee(Person):
-    def __init__(self, name, age, id, empId, salary):
-        super().__init__(name, age, id)
+    def __init__(self, name, age, id, phoneNumber, empId, salary):
+        super().__init__(name, age, id, phoneNumber)
         self._empId = empId
         self._salary = salary
     @property

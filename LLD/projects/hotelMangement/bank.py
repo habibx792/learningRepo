@@ -1,5 +1,6 @@
 from account import AccountNumber
-class Bank:
+from projects.hotelMangement.generalInterFace import GeneralMethod
+class Bank(GeneralMethod):
     def __init__(self, name, code):
         self.branchName = name
         self.branchCode = code
@@ -38,4 +39,5 @@ class Bank:
                 to_account.setBalance(to_account.balance + amount)
                 return True
         return False
-
+    def printDetails(self):
+        print(f"Branch Name: {self.branchName}, Branch Code: {self.branchCode}")
