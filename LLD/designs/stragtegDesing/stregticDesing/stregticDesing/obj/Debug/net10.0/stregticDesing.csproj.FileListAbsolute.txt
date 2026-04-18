@@ -1,0 +1,15 @@
+D:\Programming\learningRepo\LLD\designs\solid\stragtegDesing\stregticDesing\stregticDesing\bin\Debug\net10.0\stregticDesing.exe
+D:\Programming\learningRepo\LLD\designs\solid\stragtegDesing\stregticDesing\stregticDesing\bin\Debug\net10.0\stregticDesing.deps.json
+D:\Programming\learningRepo\LLD\designs\solid\stragtegDesing\stregticDesing\stregticDesing\bin\Debug\net10.0\stregticDesing.runtimeconfig.json
+D:\Programming\learningRepo\LLD\designs\solid\stragtegDesing\stregticDesing\stregticDesing\bin\Debug\net10.0\stregticDesing.dll
+D:\Programming\learningRepo\LLD\designs\solid\stragtegDesing\stregticDesing\stregticDesing\bin\Debug\net10.0\stregticDesing.pdb
+D:\Programming\learningRepo\LLD\designs\solid\stragtegDesing\stregticDesing\stregticDesing\obj\Debug\net10.0\stregticDesing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\learningRepo\LLD\designs\solid\stragtegDesing\stregticDesing\stregticDesing\obj\Debug\net10.0\stregticDesing.AssemblyInfoInputs.cache
+D:\Programming\learningRepo\LLD\designs\solid\stragtegDesing\stregticDesing\stregticDesing\obj\Debug\net10.0\stregticDesing.AssemblyInfo.cs
+D:\Programming\learningRepo\LLD\designs\solid\stragtegDesing\stregticDesing\stregticDesing\obj\Debug\net10.0\stregticDesing.csproj.CoreCompileInputs.cache
+D:\Programming\learningRepo\LLD\designs\solid\stragtegDesing\stregticDesing\stregticDesing\obj\Debug\net10.0\stregticDesing.sourcelink.json
+D:\Programming\learningRepo\LLD\designs\solid\stragtegDesing\stregticDesing\stregticDesing\obj\Debug\net10.0\stregticDesing.dll
+D:\Programming\learningRepo\LLD\designs\solid\stragtegDesing\stregticDesing\stregticDesing\obj\Debug\net10.0\refint\stregticDesing.dll
+D:\Programming\learningRepo\LLD\designs\solid\stragtegDesing\stregticDesing\stregticDesing\obj\Debug\net10.0\stregticDesing.pdb
+D:\Programming\learningRepo\LLD\designs\solid\stragtegDesing\stregticDesing\stregticDesing\obj\Debug\net10.0\stregticDesing.genruntimeconfig.cache
+D:\Programming\learningRepo\LLD\designs\solid\stragtegDesing\stregticDesing\stregticDesing\obj\Debug\net10.0\ref\stregticDesing.dll

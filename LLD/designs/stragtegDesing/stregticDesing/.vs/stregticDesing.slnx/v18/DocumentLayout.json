@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\learningRepo\\LLD\\designs\\solid\\stragtegDesing\\stregticDesing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC5D863-78BC-45A3-8207-91EC9D133A0D}|stregticDesing\\stregticDesing.csproj|d:\\programming\\learningrepo\\lld\\designs\\solid\\stragtegdesing\\stregticdesing\\stregticdesing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC5D863-78BC-45A3-8207-91EC9D133A0D}|stregticDesing\\stregticDesing.csproj|solutionrelative:stregticdesing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\learningRepo\\LLD\\designs\\solid\\stragtegDesing\\stregticDesing\\stregticDesing\\Program.cs",
+              "RelativeDocumentMoniker": "stregticDesing\\Program.cs",
+              "ToolTip": "D:\\Programming\\learningRepo\\LLD\\designs\\solid\\stragtegDesing\\stregticDesing\\stregticDesing\\Program.cs",
+              "RelativeToolTip": "stregticDesing\\Program.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAA7wJEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T18:54:18.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
