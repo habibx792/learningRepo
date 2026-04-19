@@ -1,0 +1,26 @@
+.shapyBtm {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+button {
+    background-color: coral;
+    padding: 10px;
+}
+
+.outer {
+    height: 500px;
+    width: 500px;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.applyPattern {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}

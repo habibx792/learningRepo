@@ -16,16 +16,13 @@ int main()
 
     Database *db = Database::getInstance();
     YouTube *yt = YouTube::getInstance();
-
     PaymentEngine *payment = PaymentEngine::getInstance();
     payment->setDatabase(db);
     UploadEngine *upload = UploadEngine::getInstance();
-
     upload->setDatabase(db);
     VideoRender *render = VideoRender::getInstance();
     NotificationEngine *notif = new EmailNotification(db);
     yt->setDependeny(payment, db, upload, render, notif);
-
     Channel *c1 = new Channel("Tech", 101);
     Channel *c2 = new Channel("Gaming", 102);
     Channel *c3 = new Channel("Music", 103);
@@ -85,7 +82,6 @@ int main()
     yt->send(c1);
     yt->send(c2);
     yt->send(c3);
-
     yt->renderVedo("Tech", "C++ Basics", c1);
 
     cout << "\nSystem executed successfully!" << endl;
