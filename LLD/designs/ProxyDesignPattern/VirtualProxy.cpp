@@ -27,7 +27,6 @@ public:
     RealImage(string filename)
     {
         this->fileName = filename;
-        // Initialize with filename
     }
 
     void display() override
